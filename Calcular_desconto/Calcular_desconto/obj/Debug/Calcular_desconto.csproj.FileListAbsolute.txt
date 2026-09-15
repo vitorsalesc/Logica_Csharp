@@ -1,0 +1,7 @@
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Calcular_desconto\Calcular_desconto\bin\Debug\Calcular_desconto.exe.config
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Calcular_desconto\Calcular_desconto\bin\Debug\Calcular_desconto.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Calcular_desconto\Calcular_desconto\bin\Debug\Calcular_desconto.pdb
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.csproj.AssemblyReference.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.csproj.CoreCompileInputs.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.pdb

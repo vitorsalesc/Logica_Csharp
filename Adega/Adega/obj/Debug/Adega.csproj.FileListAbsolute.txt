@@ -1,0 +1,7 @@
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Adega\Adega\bin\Debug\Adega.exe.config
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Adega\Adega\bin\Debug\Adega.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Adega\Adega\bin\Debug\Adega.pdb
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Adega\Adega\obj\Debug\Adega.csproj.AssemblyReference.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Adega\Adega\obj\Debug\Adega.csproj.CoreCompileInputs.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Adega\Adega\obj\Debug\Adega.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Adega\Adega\obj\Debug\Adega.pdb

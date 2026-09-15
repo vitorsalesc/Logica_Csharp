@@ -1,0 +1,7 @@
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Ano_BisSexto\Ano_BisSexto\bin\Debug\Ano_BisSexto.exe.config
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Ano_BisSexto\Ano_BisSexto\bin\Debug\Ano_BisSexto.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Ano_BisSexto\Ano_BisSexto\bin\Debug\Ano_BisSexto.pdb
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Ano_BisSexto\Ano_BisSexto\obj\Debug\Ano_BisSexto.csproj.AssemblyReference.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Ano_BisSexto\Ano_BisSexto\obj\Debug\Ano_BisSexto.csproj.CoreCompileInputs.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Ano_BisSexto\Ano_BisSexto\obj\Debug\Ano_BisSexto.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Ano_BisSexto\Ano_BisSexto\obj\Debug\Ano_BisSexto.pdb
