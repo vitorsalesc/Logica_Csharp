@@ -1,0 +1,7 @@
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Media_Escolar\Media_Escolar\bin\Debug\Media_Escolar.exe.config
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Media_Escolar\Media_Escolar\bin\Debug\Media_Escolar.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Media_Escolar\Media_Escolar\bin\Debug\Media_Escolar.pdb
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.csproj.AssemblyReference.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.csproj.CoreCompileInputs.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.pdb

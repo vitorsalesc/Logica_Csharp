@@ -1,0 +1,7 @@
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Soma_de_numeros\Soma_de_numeros\bin\Debug\Soma_de_numeros.exe.config
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Soma_de_numeros\Soma_de_numeros\bin\Debug\Soma_de_numeros.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Soma_de_numeros\Soma_de_numeros\bin\Debug\Soma_de_numeros.pdb
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Soma_de_numeros\Soma_de_numeros\obj\Debug\Soma_de_numeros.csproj.AssemblyReference.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Soma_de_numeros\Soma_de_numeros\obj\Debug\Soma_de_numeros.csproj.CoreCompileInputs.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Soma_de_numeros\Soma_de_numeros\obj\Debug\Soma_de_numeros.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Soma_de_numeros\Soma_de_numeros\obj\Debug\Soma_de_numeros.pdb

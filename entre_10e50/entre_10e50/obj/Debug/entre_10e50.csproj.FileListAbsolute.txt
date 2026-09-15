@@ -1,0 +1,7 @@
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\entre_10e50\entre_10e50\bin\Debug\entre_10e50.exe.config
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\entre_10e50\entre_10e50\bin\Debug\entre_10e50.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\entre_10e50\entre_10e50\bin\Debug\entre_10e50.pdb
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\entre_10e50\entre_10e50\obj\Debug\entre_10e50.csproj.AssemblyReference.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\entre_10e50\entre_10e50\obj\Debug\entre_10e50.csproj.CoreCompileInputs.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\entre_10e50\entre_10e50\obj\Debug\entre_10e50.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\entre_10e50\entre_10e50\obj\Debug\entre_10e50.pdb
