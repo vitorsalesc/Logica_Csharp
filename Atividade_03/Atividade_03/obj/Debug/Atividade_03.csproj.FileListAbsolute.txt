@@ -1,0 +1,7 @@
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Atividade_03\Atividade_03\bin\Debug\Atividade_03.exe.config
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Atividade_03\Atividade_03\bin\Debug\Atividade_03.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Atividade_03\Atividade_03\bin\Debug\Atividade_03.pdb
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Atividade_03\Atividade_03\obj\Debug\Atividade_03.csproj.AssemblyReference.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Atividade_03\Atividade_03\obj\Debug\Atividade_03.csproj.CoreCompileInputs.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Atividade_03\Atividade_03\obj\Debug\Atividade_03.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Atividade_03\Atividade_03\obj\Debug\Atividade_03.pdb

@@ -1,0 +1,7 @@
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\cadastro_fabrica\cadastro_fabrica\bin\Debug\cadastro_fabrica.exe.config
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\cadastro_fabrica\cadastro_fabrica\bin\Debug\cadastro_fabrica.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\cadastro_fabrica\cadastro_fabrica\bin\Debug\cadastro_fabrica.pdb
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\cadastro_fabrica\cadastro_fabrica\obj\Debug\cadastro_fabrica.csproj.AssemblyReference.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\cadastro_fabrica\cadastro_fabrica\obj\Debug\cadastro_fabrica.csproj.CoreCompileInputs.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\cadastro_fabrica\cadastro_fabrica\obj\Debug\cadastro_fabrica.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\cadastro_fabrica\cadastro_fabrica\obj\Debug\cadastro_fabrica.pdb
