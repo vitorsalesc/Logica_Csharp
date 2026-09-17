@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vitor.scavalcanti1\\OneDrive - SENAC - SP\\Documentos\\C#\\nome_idade\\",
+  "WorkspaceRootPath": "C:\\Users\\vitor.scavalcanti1\\Documents\\GitHub\\Logica_Csharp\\nome_idade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF660B00-370F-459B-BBA1-25FC4ECD0474}|nome_idade\\nome_idade.csproj|c:\\users\\vitor.scavalcanti1\\onedrive - senac - sp\\documentos\\c#\\nome_idade\\nome_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF660B00-370F-459B-BBA1-25FC4ECD0474}|nome_idade\\nome_idade.csproj|c:\\users\\vitor.scavalcanti1\\documents\\github\\logica_csharp\\nome_idade\\nome_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF660B00-370F-459B-BBA1-25FC4ECD0474}|nome_idade\\nome_idade.csproj|solutionrelative:nome_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vitor.scavalcanti1\\OneDrive - SENAC - SP\\Documentos\\C#\\nome_idade\\nome_idade\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.scavalcanti1\\Documents\\GitHub\\Logica_Csharp\\nome_idade\\nome_idade\\Program.cs",
               "RelativeDocumentMoniker": "nome_idade\\Program.cs",
-              "ToolTip": "C:\\Users\\vitor.scavalcanti1\\OneDrive - SENAC - SP\\Documentos\\C#\\nome_idade\\nome_idade\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor.scavalcanti1\\Documents\\GitHub\\Logica_Csharp\\nome_idade\\nome_idade\\Program.cs",
               "RelativeToolTip": "nome_idade\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
