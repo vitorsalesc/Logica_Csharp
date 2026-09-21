@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor.scavalcanti1\\OneDrive - SENAC - SP\\Documentos\\C#\\Cadastro_Bandas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A56F702A-565C-476B-B4E1-8167EA2C2221}|Cadastro_Bandas\\Cadastro_Bandas.csproj|c:\\users\\vitor.scavalcanti1\\onedrive - senac - sp\\documentos\\c#\\cadastro_bandas\\cadastro_bandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56F702A-565C-476B-B4E1-8167EA2C2221}|Cadastro_Bandas\\Cadastro_Bandas.csproj|solutionrelative:cadastro_bandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor.scavalcanti1\\OneDrive - SENAC - SP\\Documentos\\C#\\Cadastro_Bandas\\Cadastro_Bandas\\Program.cs",
+              "RelativeDocumentMoniker": "Cadastro_Bandas\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor.scavalcanti1\\OneDrive - SENAC - SP\\Documentos\\C#\\Cadastro_Bandas\\Cadastro_Bandas\\Program.cs",
+              "RelativeToolTip": "Cadastro_Bandas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T13:25:13.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Cadastro_Bandas\Cadastro_Bandas\bin\Debug\Cadastro_Bandas.exe.config
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Cadastro_Bandas\Cadastro_Bandas\bin\Debug\Cadastro_Bandas.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Cadastro_Bandas\Cadastro_Bandas\bin\Debug\Cadastro_Bandas.pdb
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Cadastro_Bandas\Cadastro_Bandas\obj\Debug\Cadastro_Bandas.csproj.AssemblyReference.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Cadastro_Bandas\Cadastro_Bandas\obj\Debug\Cadastro_Bandas.csproj.CoreCompileInputs.cache
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Cadastro_Bandas\Cadastro_Bandas\obj\Debug\Cadastro_Bandas.exe
+C:\Users\vitor.scavalcanti1\OneDrive - SENAC - SP\Documentos\C#\Cadastro_Bandas\Cadastro_Bandas\obj\Debug\Cadastro_Bandas.pdb
